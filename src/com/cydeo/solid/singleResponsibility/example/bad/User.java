@@ -3,7 +3,7 @@ package com.cydeo.solid.singleResponsibility.example.bad;
 public class User {
     public static User getInstance() {
         return ;
-    }ood
+    }
 
     public static void getRequest() {
         // Implementation for getting the API request.
